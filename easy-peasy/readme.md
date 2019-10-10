@@ -6,7 +6,7 @@ This is another tutorial from Brad Traversy using his starter code.
 
 This simple project is an example of how Easy Peasy can be used on top of Redux to make state management simpler with a simple todo app (because of course it's a todo app!)
 
-![alt-text](./screenshot.png, "Screenshot of Todo App");
+![Screenshot of Todo App](./screenshot.png, "Screenshot of Todo App")
 
 To use this app yourself, make sure you are in the `easy-peasy` directory and run `npm install` to install dependancies and then run `npm start` to start the server.
 
