@@ -6,7 +6,7 @@ This is a tutorial from Brad Traversy using his starter code.
 
 In this tutorial, Brad had us create an "idea app" in which a live streamer could solicit ideas from an audience. By entering an idea into the field and submitting it, the list to the left of the form would be updated in real-time.
 
-![alt-text](./screenshot, "Screenshot of Ideas App");
+![Screenshot of Ideas App](screenshot.png "Ideas App");
 
 ## To Run
 
