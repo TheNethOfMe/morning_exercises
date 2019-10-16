@@ -8,7 +8,11 @@ In this tutorial, Brad had us create an "idea app" in which a live streamer coul
 
 ![Screenshot of Ideas App](screenshot.png "Ideas App");
 
+## To Run
+
 To use this for yourself, just go into the feathersjs directory, run `npm install` and just open index.html once the dependancies have finished installing. No server required!
+
+## My Thoughts
 
 This project had me using Socketio for the first time. When I was studying C#/.Net, the group I was in used SignalR to make a trivia app that would update for all users in real time. Socketio seems to be the Nodejs equivelant to that.
 
