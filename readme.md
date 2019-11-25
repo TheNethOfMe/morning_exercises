@@ -7,3 +7,4 @@ Building small apps from tutorials. This is a way for me to keep working on stuf
 - [Realtime App with Feathersjs & Socketio](./feathersjs)
 - [Easy Peasy Redux State Management](./easy-peasy)
 - [Calendar App with Vuetify and Firebase](./vue-calendar)
+- [Animated Nav Bubble Effect](./animated-nav)
