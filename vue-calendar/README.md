@@ -21,6 +21,6 @@ I've also wanted a reason to use Vue more and make something more complex with i
 
 That will require a lot of time, as I never really finished the last batch of changes I wanted to do to the site (mostly implimenting React hooks and eliminating the need for Redux) so a complete rebuild from scratch doesn't seem like an awful idea at this point.
 
-My reasons for not wanting to use Firebase are mostly political. Google is one of the big tech giants and big tech giants are ruining our lives. But luckily I can always give myself the out that "there's not ethical consumption under capitalism" so nothing I do can truely fix anything anyway. It's not like I'm gonna give them money for it, anyway.
+My reasons for not wanting to use Firebase are mostly political. Google is one of the big tech giants and big tech giants are ruining our lives. But luckily I can always give myself the out that "there's no ethical consumption under capitalism" so nothing I do can truly fix anything anyway. It's not like I'm giving them money for it.
 
-At least they aren't Amazon.
+And at least they aren't Amazon.
