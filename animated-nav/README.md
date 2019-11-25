@@ -5,10 +5,10 @@ This tutorial comes curtesy of a Youtuber by the name of 'Dev Ed'.
 [You can check out his YouTube tutorial here!](https://www.youtube.com/watch?v=H4MkGzoACpQ)
 
 Menu Closed
-![Screenshot of app with menu closed](./menu-close.png, "Screenshot of app with menu closed");
+![Screenshot of app with menu closed](./menu-close.png "Screenshot of app with menu closed");
 
 Menu Opened
-![Screenshot of app with menu closed](./menu-open.png, "Screenshot of app with menu closed");
+![Screenshot of app with menu closed](./menu-open.png "Screenshot of app with menu closed");
 
 ## To Run
 

@@ -5,7 +5,7 @@ Another tutorial from Brad Traversy which seems to consist primarily of code fro
 [You can check out his YouTube tutorial here!](https://www.youtube.com/watch?v=2NOsjTT1b_k)
 [Here is the Vuetify Calendar component on which this project is based.](https://vuetifyjs.com/en/components/calendars)
 
-![Screenshot of Calendar](./screenshot.png, "Screenshot of Calendar");
+![Screenshot of Calendar](./screenshot.png "Screenshot of Calendar");
 
 ## To Run
 
