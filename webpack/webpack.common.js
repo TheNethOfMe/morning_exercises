@@ -1,5 +1,4 @@
 const path = require("path");
-const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
   entry: { 
@@ -7,18 +6,9 @@ module.exports = {
     vendor: "./src/vendor.js"
   },
   // note: check html webpack plugin docs for use with ejs
-  plugins: [new HtmlWebpackPlugin({
-    template: "./src/template.html"
-  })],
+  plugins: [],
   module: {
-    rules: [{
-      test: /\.scss$/,
-      use: [
-        "style-loader", // 3. injects css into DOM
-        "css-loader", // 2. turns css into commonjs
-        "sass-loader" // 1. turns sass into css
-      ]
-    },
+    rules: [
     {
       test: /\.html$/,
       use: [
