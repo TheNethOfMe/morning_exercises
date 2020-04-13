@@ -10,4 +10,6 @@ Building small apps from tutorials. This is a way for me to keep working on stuf
 - [Animated Nav Bubble Effect](./animated-nav)
 - [Animated and Colorful Responsive Navbar](./colorful-nav)
 - [Url Shortener](./url-shortener)
-
+- [Socket.io Tutorial](./socketio)
+- [Webpack](./webpack)
+- [Webpack with Express](./webpack-express)
