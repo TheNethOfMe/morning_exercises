@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    [
+      "@babel/plugin-transform-runtime",
+      {
+        "corsejs": 2,
+        "regenerator": true
+      }
+    ]
+  ]
+}
